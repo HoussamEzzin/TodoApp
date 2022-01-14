@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Mobile Apps/TodoApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Mobile Apps/TodoApp/app/src/main/res/drawable/ic_baseline_add.xml" value="0.1" />
+        <entry key="..\:/Mobile Apps/TodoApp/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Mobile Apps/TodoApp/app/src/main/res/layout/list_view_layout.xml" value="0.1762917933130699" />
       </map>
     </option>
   </component>
